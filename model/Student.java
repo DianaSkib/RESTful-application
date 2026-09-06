@@ -1,6 +1,6 @@
 package ru.hogwarts.school.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 public class Student {
